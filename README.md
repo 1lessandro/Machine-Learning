@@ -1,45 +1,42 @@
-# Projet Machine Learning 
+# Machine Learning Project
 
 ## 📌 Description
 
-Ce projet implémente et explore un différents modèles de ML à l’aide de Python. Il a pour objectif d’analyser des données, d’entraîner un modèle statistique et d’interpréter les résultats obtenus.
+This project implements and explores **different Machine Learning models** using Python. Its main objective is to analyze data, train statistical models, and interpret the results obtained.
 
-Le travail est présenté sous forme de notebook Jupyter, ce qui permet de suivre étape par étape la démarche : préparation des données, modélisation, entraînement et analyse.
+The work is presented in the form of a **Jupyter Notebook**, allowing a step-by-step approach that includes data preparation, modeling, training, and analysis.
 
 ---
 
-## 📂 Contenu du projet
+## 📂 Project Content
 
-* `Projet_Macgine_learning.ipynb` : Notebook principal contenant :
+* `Projet_Machine_learning.ipynb`: Main notebook containing:
 
-  * le chargement et le nettoyage des données
-  * la définition du modèle GLM
-  * l’entraînement du modèle
-  * l’évaluation et l’interprétation des résultats
+  * data loading and cleaning
+  * definition of the GLM model
+  * model training
+  * evaluation and interpretation of results
+* `insurance.csv`: Dataset used for the model
 
-
-* `insurance.csv` : données du modèle
 ---
 
-## ⚙️ Prérequis
+## ⚙️ Requirements
 
-Avant d’exécuter le projet, assure-toi d’avoir :
+Before running the project, make sure you have:
 
 * Python **3.8+**
-* Jupyter Notebook ou Jupyter Lab
+* Jupyter Notebook or Jupyter Lab
 
-### Bibliothèques Python utilisées
+### Python Libraries Used
 
-```bash
-numpy
-pandas
-matplotlib
-seaborn
-statsmodels
-scikit-learn
-```
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* statsmodels
+* scikit-learn
 
-Installation rapide des dépendances :
+### Quick Installation of Dependencies
 
 ```bash
 pip install numpy pandas matplotlib seaborn statsmodels scikit-learn
@@ -47,51 +44,55 @@ pip install numpy pandas matplotlib seaborn statsmodels scikit-learn
 
 ---
 
-## ▶️ Exécution du projet
+## ▶️ How to Run the Project
 
-1. Cloner le dépôt :
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/1lessandro/projet-machine-learning.git
 ```
 
-2. Accéder au dossier du projet :
+2. Navigate to the project directory:
 
 ```bash
 cd projet-machine-learning
 ```
 
-3. Lancer Jupyter Notebook :
+3. Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-4. Ouvrir le fichier `Projet_Machine_learning.ipynb`
+4. Open the file `Projet_Machine_learning.ipynb`
 
 ---
 
-## 📊 Objectifs du projet
+## 📊 Project Objectives
 
-* Comprendre le fonctionnement de différent modèles de machine learning
-* Appliquer un modèle statistique à un jeu de données réel ou simulé
-* Interpréter les coefficients et les performances du modèle
-* Visualiser les résultats
-
----
-
-## 🚀 Améliorations possibles
-
-* Tester d’autres familles de GLM (Poisson, Binomiale)
-* Ajouter une validation croisée
-* Comparer les résultats avec d’autres modèles de régression
-* Structurer le projet sous forme de package Python
+* Understand the fundamentals of different Machine Learning models
+* Apply statistical models to a real or simulated dataset
+* Interpret model coefficients and performance metrics
+* Visualize and analyze results
 
 ---
 
-## 👤 Auteur
+## 🚀 Possible Improvements
 
-Projet réalisé par PASCAL Alessandro/LECHEMIA Raphaël/ KANDOUM CHOUMIN Jacques Jr/ MICHEL Florian
-dans le cadre d’un projet académique.
+* Test other GLM families (Poisson, Binomial, etc.)
+* Add cross-validation
+* Compare results with other regression models
+* Structure the project as a Python package
 
+---
 
+## 👤 Authors
+
+Project carried out by:
+
+* **PASCAL Alessandro**
+* **LECHEMIA Raphaël**
+* **KANDOUM CHOUMIN Jacques Jr**
+* **MICHEL Florian**
+
+As part of an academic project.
