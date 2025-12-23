@@ -16,8 +16,9 @@ Le travail est présenté sous forme de notebook Jupyter, ce qui permet de suivr
   * la définition du modèle GLM
   * l’entraînement du modèle
   * l’évaluation et l’interprétation des résultats
-*`Insurance.csv` : données du modèle
 
+
+* `insurance.csv` : données du modèle
 ---
 
 ## ⚙️ Prérequis
@@ -81,7 +82,7 @@ jupyter notebook
 
 ## 🚀 Améliorations possibles
 
-* Tester d’autres familles de GLM (Poisson, Binomiale, Gamma, etc.)
+* Tester d’autres familles de GLM (Poisson, Binomiale)
 * Ajouter une validation croisée
 * Comparer les résultats avec d’autres modèles de régression
 * Structurer le projet sous forme de package Python
@@ -91,6 +92,6 @@ jupyter notebook
 ## 👤 Auteur
 
 Projet réalisé par PASCAL Alessandro/LECHEMIA Raphaël/ KANDOUM CHOUMIN Jacques Jr/ MICHEL Florian
-Dans le cadre d’un projet académique.
+dans le cadre d’un projet académique.
 
 
