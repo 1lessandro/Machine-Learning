@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-## 📌 Description
+## Description
 
 This project implements and explores **different Machine Learning models** using Python. Its main objective is to analyze data, train statistical models, and interpret the results obtained.
 
@@ -8,7 +8,7 @@ The work is presented in the form of a **Jupyter Notebook**, allowing a step-by-
 
 ---
 
-## 📂 Project Content
+## Project Content
 
 * `Projet_Machine_learning.ipynb`: Main notebook containing:
 
@@ -20,7 +20,7 @@ The work is presented in the form of a **Jupyter Notebook**, allowing a step-by-
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Before running the project, make sure you have:
 
@@ -44,7 +44,7 @@ pip install numpy pandas matplotlib seaborn statsmodels scikit-learn
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
@@ -68,7 +68,7 @@ jupyter notebook
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 * Understand the fundamentals of different Machine Learning models
 * Apply statistical models to a real or simulated dataset
@@ -77,7 +77,7 @@ jupyter notebook
 
 ---
 
-## 🚀 Possible Improvements
+## Possible Improvements
 
 * Test other GLM families (Poisson, Binomial, etc.)
 * Add cross-validation
@@ -86,7 +86,7 @@ jupyter notebook
 
 ---
 
-## 👤 Authors
+## Authors
 
 Project carried out by:
 
